@@ -5,5 +5,6 @@ Plan de estudios para el laboratorio de aprendizaje
 
 What do you want to eventually build?  Let's break apart the skills that are needed to build that and learn those specifically.
 
+* https://scrimba.com/g/ghtml
 * https://reactjs.org/tutorial/tutorial.html
 * https://github.com/ionicthemes/ionic4-starter-app
