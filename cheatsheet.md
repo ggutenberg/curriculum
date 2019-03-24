@@ -1,3 +1,9 @@
+- [HTML](#html)
+- [Javascript](#javascript)
+  - [Tipos de datos:](#tipos-de-datos)
+    - [Objectos y funciones](#objectos-y-funciones)
+    - [Arrays](#arrays)
+
 # HTML
 
 Elemento con contenido:
@@ -76,6 +82,10 @@ const carro = {
     año: 2019,
     color: 'roja',
 }; // Object
+
+// Para poner referencias a los propriedades, usa notación de puntos
+console.log(carro.fabricante) // "Toyota"
+console.log(carro.año) // 2019
 ```
 
 ```js
